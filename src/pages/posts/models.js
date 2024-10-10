@@ -1,0 +1,1 @@
+ //It is used to create interfaces is use-able to ttthe group of components

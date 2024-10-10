@@ -1,0 +1,1 @@
+//It is used to write function and which can be re-use  to this throught out the post inside the post
